@@ -1,0 +1,7 @@
+{
+  "name": "Булка",
+  "suit": "Ветер Свободы",
+  "health": 100,
+  "radiation": 0,
+  "is_dead": false
+}
